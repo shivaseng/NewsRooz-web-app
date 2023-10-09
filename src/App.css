@@ -1,0 +1,14 @@
+
+.card img {
+    height: 230px;
+}
+
+.card:hover{
+    border: lightblue;
+    border-radius: 4px;
+    box-shadow: 0 5px -5px 5px (rgb(136, 124, 124));
+    box-shadow: 0 0 6px 3px rgba(121,121,121,0.3);
+}
+.card.footer{
+    border:none;
+}
